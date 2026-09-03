@@ -1,3 +1,11 @@
+// 50
+// 40
+// 30
+// 20
+// 10
+
+// 10 20 30 40 50 
+
 #include<bits/stdc++.h>
 using namespace std;
 void reverse(int i,int arr[] , int n){
